@@ -4,3 +4,5 @@ This simulation includes collisions with box boundaries, collision with other pa
 and is determined by a BoxMullerTransform function.
 
 Autocorrelation is also added, using mean squared displacement.
+
+To see full animation of the results run the coord.xyz on VMD (Visual Molecular Dynamics).
