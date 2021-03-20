@@ -1,3 +1,5 @@
+This is an attempted project at simulating the Alpha Centauri binary star system
+
 The Python script was written with Python 3 (Anaconda distribution) on Jupyter notebook and Spyder.
 
 Best to run on spyder or other non-Jupyter notebook IDEs.
